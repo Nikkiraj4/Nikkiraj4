@@ -10,16 +10,31 @@
 
 ## ✦ about me
 
-🦋 Role → CS Engineering Student · Full-Stack Developer
-🦋 Focus → Full-Stack Development · AI/ML · Open Source
-🦋 Building → RAG Pipelines · MERN Stack Apps · Java Systems
-🦋 Status → Open to Internships & Collaborations
-
+```text
+🦋  Role      →  CS Engineering Student · Full-Stack Developer
+🦋  Focus     →  Full-Stack Development · AI/ML · Open Source
+🦋  Currently →  Full Stack Developer Intern @ Axlero Innovative Solutions
+🦋  Building  →  RAG Pipelines · MERN Stack Apps · Java Systems
+🦋  Status    →  Open to Internships & Collaborations
+```
 
 ---
 
 ## ✦ tech stack
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -34,7 +49,12 @@
 
 ---
 
-![snake](https://raw.githubusercontent.com/Nikkiraj4/Nikkiraj4/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikkiraj4/Nikkiraj4/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikkiraj4/Nikkiraj4/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Nikkiraj4/Nikkiraj4/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
