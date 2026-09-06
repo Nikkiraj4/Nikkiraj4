@@ -13,7 +13,6 @@
 ```text
 🦋  Role      →  CS Engineering Student · Full-Stack Developer
 🦋  Focus     →  Full-Stack Development · AI/ML · Open Source
-🦋  Currently →  Full Stack Developer Intern @ Axlero Innovative Solutions
 🦋  Building  →  RAG Pipelines · MERN Stack Apps · Java Systems
 🦋  Status    →  Open to Internships & Collaborations
 ```
