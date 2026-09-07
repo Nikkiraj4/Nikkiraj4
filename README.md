@@ -5,6 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Nikkiraj4&label=PROFILE+VIEWS&color=BF5FFF&style=for-the-badge&labelColor=1A0026)](https://github.com/Nikkiraj4)
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-BF5FFF?style=for-the-badge&labelColor=1A0026)](https://nikkiraj4.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2D78?style=for-the-badge&logo=linkedin&logoColor=BF5FFF&labelColor=1A0026)](https://www.linkedin.com/in/nikita-raj46/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=BF5FFF&labelColor=1A0026)](https://leetcode.com/u/Nikita_raj/)
 
 ---
 
